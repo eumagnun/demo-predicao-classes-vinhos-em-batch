@@ -1,4 +1,5 @@
 # demo-predicao-classes-vinhos-em-batch
+# código adaptado para uso com o Vertex Model Registry e Vertex Batch Predictions
 
 ## Diretórios e arquivos
 ```
