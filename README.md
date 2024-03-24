@@ -19,3 +19,6 @@
         request2.json
         request3.json
 ```     
+
+#### Nota: O modelo utilizado nessa demo foi treinado com o dataset Wine
+https://scikit-learn.org/stable/datasets/toy_dataset.html#wine-recognition-dataset
