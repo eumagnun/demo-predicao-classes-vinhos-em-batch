@@ -32,7 +32,7 @@ def status():
     return "ok"
 
 # Enpoint para predição
-# O Vertex requer um  que a resposta contenha a chave 'predictions'
+# O Vertex requer que a resposta contenha a chave 'predictions'
 @app.post("/predict")
 def predict(wine: Wine):
     instances = wine.instances
