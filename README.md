@@ -12,8 +12,6 @@
 │       main.py				#definição da API python
 │       model.pkl			#modelo de classificação de vinhos previamente treinado e exportado via Pickle
 │
-├───exemplo-notebook-pipeline	        #exemplos notebooks com definição de pipeline
-│       demo_vertex_pipelines.ipynb
 │
 ├───exemplos-arquivo-jsonl		#exemplos de arquivos jsonl que devem ser usados como input para uma Vertex Batch Prediction
 │       instances.jsonl
